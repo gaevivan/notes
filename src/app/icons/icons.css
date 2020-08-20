@@ -1,0 +1,9 @@
+span.icon {
+    background-color: black;
+    mask-size: 1em;
+    width: 25px;
+    height: 25px;
+}
+span.icon.check {
+    mask: url("src/assets/check-24px.svg") no-repeat center;
+}
